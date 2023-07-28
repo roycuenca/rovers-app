@@ -29,7 +29,7 @@ npm install -g expo-cli
 3. Clone this repository to your local machine:
 
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/roycuenca/rovers-app/tree/master
 ```
 
 4. Navigate to the project directory:
